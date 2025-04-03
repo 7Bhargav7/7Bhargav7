@@ -6,7 +6,6 @@ I'm a passionate **Blue Team Security Enthusiast** dedicated to developing defen
   - Configuring firewalls in Metasploitable VM
   - Developing a shell script to detect and prevent malicious .lnk files from autorunning via USB
   - Exploring Nmap and analyzing network traffic with Wireshark
-  - Preparing to dive into Burp Suite for comprehensive web security testing
 
 ## 🤝 Collaboration Interests
 - Network security projects
