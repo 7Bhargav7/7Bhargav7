@@ -33,24 +33,5 @@ Beyond cybersecurity, I'm passionate about UI/UX design, using my creative skill
 
 ![snake gif](https://github.com/7Bhargav7/7Bhargav7/blob/output/github-snake-dark.svg)
 
-## 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=7Bhargav7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=7Bhargav7&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
 
-</div>
-
----
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=7Bhargav7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
 
