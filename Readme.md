@@ -14,18 +14,18 @@
 
 ---
 
-## 🛡️ What I actually do
+##  What I actually do
 
 I'm a final-year CSE student at **KIIT** working in **DevSecOps and blue-team security** — not just labs, but live systems. I've audited and hardened production infrastructure after security incidents, deployed an IDS for state-level power distribution, and I'm building an ML-based network intrusion detection system as my major project.
 
-- 🔐 **Incident response & hardening** — Cloudflare/origin security audits, WAF + Workers, container isolation on self-managed VPS
-- 📡 **Detection engineering** — Snort 3 IDS/IPS in production, custom threat-detection rules, Azure Sentinel SIEM
-- 🤖 **ML for security** — autoencoder + Random Forest pipeline on CICIDS2017 (**97.89% accuracy**, 94.32% F1)
-- ⚙️ **Automation** — Python, Bash & PowerShell for log analysis, alert triage, and SOC workflows
+-  **Incident response & hardening** — Cloudflare/origin security audits, WAF + Workers, container isolation on self-managed VPS
+-  **Detection engineering** — Snort 3 IDS/IPS in production, custom threat-detection rules, Azure Sentinel SIEM
+-  **ML for security** — autoencoder + Random Forest pipeline on CICIDS2017 (**97.89% accuracy**, 94.32% F1)
+-  **Automation** — Python, Bash & PowerShell for log analysis, alert triage, and SOC workflows
 
 ---
 
-## 🚀 What I'm working on
+##  What I'm working on
 
 | Project | What it is |
 |---|---|
@@ -36,7 +36,7 @@ I'm a final-year CSE student at **KIIT** working in **DevSecOps and blue-team se
 
 ---
 
-## 🧰 Tech & Tools
+##  Tech & Tools
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
